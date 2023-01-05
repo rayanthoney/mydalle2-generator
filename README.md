@@ -16,7 +16,7 @@
 <br>
 
 <p>
-<a href="-REPOSITORY URL GOES HERE-" target="_blank">
+<a href="https://github.com/rayanthoney/mydalle2-generator" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=plastic&zfor-the-badge&logo=github"/>
 </a>
 <a href="-URL DEMO GOES HERE-" target="_blank">
@@ -32,7 +32,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** HTML, CSS, JavaScript, Framework of choice.
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This application was created using HTML5, CSS3, JavaScript, Nodejs, Express, and Vite. HTML5 was used to create the structure of the application and provide basic styling. CSS3 was used to add more styling and make the application look more visually appealing. JavaScript was used to add interactivity and functionality to the application. Nodejs was used to create a server-side environment for the application. Express was used to handle routing and requests from the client-side.
 <br>
 
 <p align="center">
@@ -56,7 +56,10 @@ Here's where you can go to town on how you actually built this thing. Write as m
 
 _(optional)_
 
-You don't have to include this section but interviewers _love_ that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Future plans are to optimize the code by using the built-in features of **Vite**. It uses a build system that is based on Rollup, which allows for faster builds and smaller bundle sizes. Additionally, **Vite** provides a dev server with built-in hot module replacement (HMR) support, which enables developers to make changes to their code and see the results in real time without having to restart the server. Finally, **Vite** also offers tree shaking and code splitting. This will help reduce the size of the application and improve its performance. 
+
+Convert this application to use **Vite** by running the following command in your terminal: 
+> vite convert my-project
 
 ## Lessons Learned:
 
